@@ -1,0 +1,27 @@
+body {
+	background-color: lightgrey;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 28px;
+	text-align: center;
+}
+
+h2, h3, h4 {
+	font-family: Helvetica;
+	font-size: 24px;
+}
+
+#panel, #tab {
+    padding: 5px;
+    text-align: center;
+    background-color: #E5EECC;
+    border: solid 1px #C3C3C3;
+}
+
+#panel {
+	padding: 25;
+	display: none;
+}
